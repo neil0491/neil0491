@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=neil0491&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&hide=stars)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neil0491&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
