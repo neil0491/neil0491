@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=neil0491&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&hide=stars)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neil0491&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neil0491&layout=compact&size_weight=0.5&count_weight=0.5)
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
